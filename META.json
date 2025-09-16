@@ -1,0 +1,64 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.781778",
+  "default_ports": [
+    80,
+    443,
+    5665
+  ],
+  "dependencies": [
+    "snmp",
+    "snmp-mibs-downloader"
+  ],
+  "description": "icinga is a free and open-source monitoring system. Icinga provides modern monitoring with Nagios compatibility",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/icinga",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/icinga",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.781796",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "icinga",
+  "repository_url": "https://github.com/howtomgr/icinga",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "icinga Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/icinga"
+}
